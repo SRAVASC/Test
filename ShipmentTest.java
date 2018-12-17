@@ -45,3 +45,6 @@ public class ShipmentTest {
 	}
 
 
+@test
+
+print(eat burger)
