@@ -46,3 +46,6 @@ public class ShipmentTest {
 
 @test(water)
 
+@test
+
+print(eat burger)
